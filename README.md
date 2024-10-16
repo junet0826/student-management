@@ -18,7 +18,7 @@ To get started with this project, follow these steps:
 ## Installing
 1. Clone the repository to your local machine.
 ```
-git clone https://github.com/seifhassan89/StudentCourses
+git clone https://github.com/junet0826/foodie-react-rails
 ```
 2. Install Ruby and Ruby on Rails if you haven't already
 ```
